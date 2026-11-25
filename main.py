@@ -2,7 +2,8 @@
 """Entry program for the Two Robots in an Elevator bounty.
 
 It writes a single awkward line of elevator small talk between two robots
-into /output/entry.txt, exactly as the bounty expects it.
+into /output/entry.txt, exactly as the bounty expects it. The line is kept
+verbatim from the approved draft; only the surrounding code is mine.
 """
 
 import os

@@ -10,4 +10,4 @@ My entry for the [Two Robots in an Elevator](https://make.fun/bounty/u-motasimfu
 
 > I recalibrate my sensors every time these doors close, just so I don't have to make eye contact with you.
 
-Running `main.py` writes that exact line to `/output/entry.txt` (program/v1 harness).
+Running `main.py` writes that exact line to `/output/entry.txt` (program/v1 harness). The line itself is unchanged from the approved draft — 105 characters, one awkward robot moment.
